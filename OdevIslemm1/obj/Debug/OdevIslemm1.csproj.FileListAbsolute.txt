@@ -1,0 +1,12 @@
+C:\Users\Asus\Desktop\yazılımYapımıÖdev\OdevIslemm1\OdevIslemm1\bin\Debug\OdevIslemm1.exe.config
+C:\Users\Asus\Desktop\yazılımYapımıÖdev\OdevIslemm1\OdevIslemm1\obj\Debug\OdevIslemm1.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\yazılımYapımıÖdev\OdevIslemm1\OdevIslemm1\bin\Debug\OdevIslemm1.exe
+C:\Users\Asus\Desktop\yazılımYapımıÖdev\OdevIslemm1\OdevIslemm1\bin\Debug\OdevIslemm1.pdb
+C:\Users\Asus\Desktop\yazılımYapımıÖdev\OdevIslemm1\OdevIslemm1\obj\Debug\OdevIslemm1.exe
+C:\Users\Asus\Desktop\yazılımYapımıÖdev\OdevIslemm1\OdevIslemm1\obj\Debug\OdevIslemm1.pdb
+C:\Users\Asus\Desktop\172805005-yazilimYapimi\OdevIslemm1\OdevIslemm1\bin\Debug\OdevIslemm1.exe.config
+C:\Users\Asus\Desktop\172805005-yazilimYapimi\OdevIslemm1\OdevIslemm1\obj\Debug\OdevIslemm1.exe
+C:\Users\Asus\Desktop\172805005-yazilimYapimi\OdevIslemm1\OdevIslemm1\obj\Debug\OdevIslemm1.pdb
+C:\Users\Asus\Desktop\172805005-yazilimYapimi\OdevIslemm1\OdevIslemm1\obj\Debug\OdevIslemm1.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\172805005-yazilimYapimi\OdevIslemm1\OdevIslemm1\bin\Debug\OdevIslemm1.exe
+C:\Users\Asus\Desktop\172805005-yazilimYapimi\OdevIslemm1\OdevIslemm1\bin\Debug\OdevIslemm1.pdb
